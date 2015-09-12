@@ -1,0 +1,7 @@
+﻿<?xml version="1.0"?>
+<apps>
+  <app appName="uTorrent" appPath = "C:\Users\scott\AppData\Roaming\uTorrent\uTorrent.exe" />
+  <app appName="Steam" appPath = "C:\Program Files (x86)\Steam\Steam.exe" />
+  <app appName="Hulu" appPath = "http://www.hulu.com/" />
+  <app appName="Kongregate" appPath = "http://www.kongregate.com/" />
+</apps>

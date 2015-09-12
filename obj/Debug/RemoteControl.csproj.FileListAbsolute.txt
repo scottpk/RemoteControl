@@ -1,0 +1,9 @@
+C:\Users\scott\Documents\SharpDevelop Projects\RemoteControl\RemoteControl\bin\Debug\RemoteControl.exe.config
+C:\Users\scott\Documents\SharpDevelop Projects\RemoteControl\RemoteControl\bin\Debug\RemoteControl.exe
+C:\Users\scott\Documents\SharpDevelop Projects\RemoteControl\RemoteControl\bin\Debug\RemoteControl.pdb
+C:\Users\scott\Documents\SharpDevelop Projects\RemoteControl\RemoteControl\obj\Debug\RemoteControl.csprojResolveAssemblyReference.cache
+C:\Users\scott\Documents\SharpDevelop Projects\RemoteControl\RemoteControl\obj\Debug\RemoteControl.exe
+C:\Users\scott\Documents\SharpDevelop Projects\RemoteControl\RemoteControl\obj\Debug\RemoteControl.pdb
+C:\Users\scott\Documents\SharpDevelop Projects\RemoteControl\RemoteControl\bin\Debug\apps.xml
+C:\Users\scott\Documents\SharpDevelop Projects\RemoteControl\RemoteControl\bin\Debug\allow-listening.bat
+C:\Users\scott\Documents\SharpDevelop Projects\RemoteControl\RemoteControl\bin\Debug\template.html

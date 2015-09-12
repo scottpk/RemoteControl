@@ -1,0 +1,1 @@
+﻿netsh http add urlacl http://*.8080/ user=Everyone
