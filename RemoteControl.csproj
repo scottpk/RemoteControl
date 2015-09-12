@@ -82,6 +82,7 @@
     <None Include="allow-listening.bat">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <None Include="README.txt" />
     <None Include="template.html">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
